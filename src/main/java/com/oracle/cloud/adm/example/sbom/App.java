@@ -1,4 +1,4 @@
-package com.oracle.cloud.adm.example.sbom
+package com.oracle.cloud.adm.example.sbom;
 
 /**
  * Hello world!
